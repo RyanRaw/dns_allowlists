@@ -1,0 +1,4 @@
+!TIME=20200420
+!URL=https://github.com/rainsuns/dns_allowlists
+||*.1688.com^
+||*.taobao.com^
