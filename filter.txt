@@ -1,0 +1,27 @@
+# AdAway blocklist
+#
+# Project home page:
+# https://github.com/rainsuns/dns_allowlists
+#
+#斐讯：
+||hoisin.coocaatv.com^
+
+#小米：
+||ad.xiaomi.com^
+||ad1.xiaomi.com^
+||ad.mi.com^
+||stat.pandora.xiaomi.com^
+||upgrade.mishop.pandora.xiaomi.com^
+||logonext.tv.kuyun.com^
+||config.kuyun.com^
+||api.io.mi.com^
+||mishop.pandora.xiaomi.com^
+||dvb.pandora.xiaomi.com^
+||api.ad.xiaomi.com^
+||de.pandora.xiaomi.com^
+||data.mistat.xiaomi.com^
+||jellyfish.pandora.xiaomi.com^
+||gallery.pandora.xiaomi.com^
+||o2o.api.xiaomi.com^
+||bss.pandora.xiaomi.com^
+||gvod.aiseejapp.atianqi.com^
